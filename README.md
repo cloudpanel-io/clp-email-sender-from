@@ -4,7 +4,7 @@ A **WordPress plugin** to change the e-mail from name and address.
 
 Services like [Amazon SES](https://aws.amazon.com/ses/) require to send e-mails from verified **domains**.
 
-You may interested in: [How to configure Amazon SES with Postfix](https://www.cloudpanel.io/tutorial/how-to-configure-amazon-ses-with-postfix/)
+You may be interested in: [How to configure Amazon SES with Postfix](https://www.cloudpanel.io/tutorial/how-to-configure-amazon-ses-with-postfix/)
 
 ## Installation
 
